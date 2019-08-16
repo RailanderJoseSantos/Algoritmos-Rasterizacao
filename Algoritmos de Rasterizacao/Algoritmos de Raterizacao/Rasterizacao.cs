@@ -9,7 +9,6 @@ namespace Algoritmos_de_Raterizacao
     {
         public Queue<Point> filaIM = new Queue<Point>();
         public Queue<Point> filaBR = new Queue<Point>();
-
         public void Imediato(int Xi, int Yi, int Xf, int Yf)
         {
             Double DeltaY, DeltaX, m, b, Ylinha;
