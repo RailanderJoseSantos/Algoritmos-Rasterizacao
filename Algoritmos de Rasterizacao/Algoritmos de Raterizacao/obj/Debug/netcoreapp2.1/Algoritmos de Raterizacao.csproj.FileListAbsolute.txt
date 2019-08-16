@@ -1,0 +1,11 @@
+C:\Users\raila\source\CSharp Projects\Algoritmos de Raterizacao\Algoritmos de Raterizacao\bin\Debug\netcoreapp2.1\Algoritmos de Raterizacao.deps.json
+C:\Users\raila\source\CSharp Projects\Algoritmos de Raterizacao\Algoritmos de Raterizacao\bin\Debug\netcoreapp2.1\Algoritmos de Raterizacao.runtimeconfig.json
+C:\Users\raila\source\CSharp Projects\Algoritmos de Raterizacao\Algoritmos de Raterizacao\bin\Debug\netcoreapp2.1\Algoritmos de Raterizacao.runtimeconfig.dev.json
+C:\Users\raila\source\CSharp Projects\Algoritmos de Raterizacao\Algoritmos de Raterizacao\bin\Debug\netcoreapp2.1\Algoritmos de Raterizacao.dll
+C:\Users\raila\source\CSharp Projects\Algoritmos de Raterizacao\Algoritmos de Raterizacao\bin\Debug\netcoreapp2.1\Algoritmos de Raterizacao.pdb
+C:\Users\raila\source\CSharp Projects\Algoritmos de Raterizacao\Algoritmos de Raterizacao\obj\Debug\netcoreapp2.1\Algoritmos de Raterizacao.csprojAssemblyReference.cache
+C:\Users\raila\source\CSharp Projects\Algoritmos de Raterizacao\Algoritmos de Raterizacao\obj\Debug\netcoreapp2.1\Algoritmos de Raterizacao.csproj.CoreCompileInputs.cache
+C:\Users\raila\source\CSharp Projects\Algoritmos de Raterizacao\Algoritmos de Raterizacao\obj\Debug\netcoreapp2.1\Algoritmos de Raterizacao.AssemblyInfoInputs.cache
+C:\Users\raila\source\CSharp Projects\Algoritmos de Raterizacao\Algoritmos de Raterizacao\obj\Debug\netcoreapp2.1\Algoritmos de Raterizacao.AssemblyInfo.cs
+C:\Users\raila\source\CSharp Projects\Algoritmos de Raterizacao\Algoritmos de Raterizacao\obj\Debug\netcoreapp2.1\Algoritmos de Raterizacao.dll
+C:\Users\raila\source\CSharp Projects\Algoritmos de Raterizacao\Algoritmos de Raterizacao\obj\Debug\netcoreapp2.1\Algoritmos de Raterizacao.pdb

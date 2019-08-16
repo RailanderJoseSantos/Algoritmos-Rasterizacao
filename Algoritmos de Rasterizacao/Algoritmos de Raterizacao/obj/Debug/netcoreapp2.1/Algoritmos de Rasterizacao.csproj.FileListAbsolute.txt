@@ -1,0 +1,11 @@
+C:\Users\raila\source\CSharp Projects\Algoritmos de Rasterizacao\Algoritmos de Raterizacao\bin\Debug\netcoreapp2.1\Algoritmos de Rasterizacao.deps.json
+C:\Users\raila\source\CSharp Projects\Algoritmos de Rasterizacao\Algoritmos de Raterizacao\bin\Debug\netcoreapp2.1\Algoritmos de Rasterizacao.runtimeconfig.json
+C:\Users\raila\source\CSharp Projects\Algoritmos de Rasterizacao\Algoritmos de Raterizacao\bin\Debug\netcoreapp2.1\Algoritmos de Rasterizacao.runtimeconfig.dev.json
+C:\Users\raila\source\CSharp Projects\Algoritmos de Rasterizacao\Algoritmos de Raterizacao\bin\Debug\netcoreapp2.1\Algoritmos de Rasterizacao.dll
+C:\Users\raila\source\CSharp Projects\Algoritmos de Rasterizacao\Algoritmos de Raterizacao\bin\Debug\netcoreapp2.1\Algoritmos de Rasterizacao.pdb
+C:\Users\raila\source\CSharp Projects\Algoritmos de Rasterizacao\Algoritmos de Raterizacao\obj\Debug\netcoreapp2.1\Algoritmos de Rasterizacao.csprojAssemblyReference.cache
+C:\Users\raila\source\CSharp Projects\Algoritmos de Rasterizacao\Algoritmos de Raterizacao\obj\Debug\netcoreapp2.1\Algoritmos de Rasterizacao.csproj.CoreCompileInputs.cache
+C:\Users\raila\source\CSharp Projects\Algoritmos de Rasterizacao\Algoritmos de Raterizacao\obj\Debug\netcoreapp2.1\Algoritmos de Rasterizacao.AssemblyInfoInputs.cache
+C:\Users\raila\source\CSharp Projects\Algoritmos de Rasterizacao\Algoritmos de Raterizacao\obj\Debug\netcoreapp2.1\Algoritmos de Rasterizacao.AssemblyInfo.cs
+C:\Users\raila\source\CSharp Projects\Algoritmos de Rasterizacao\Algoritmos de Raterizacao\obj\Debug\netcoreapp2.1\Algoritmos de Rasterizacao.dll
+C:\Users\raila\source\CSharp Projects\Algoritmos de Rasterizacao\Algoritmos de Raterizacao\obj\Debug\netcoreapp2.1\Algoritmos de Rasterizacao.pdb
